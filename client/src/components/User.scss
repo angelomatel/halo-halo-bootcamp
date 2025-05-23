@@ -1,0 +1,17 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+div.user-list {
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.user-avatar {
+    max-width: 64px;
+    max-height: 64px;
+    border-radius: 50%;
+}
+
+.rank-image {
+    max-width: 64px;
+    max-height: 64px;
+}
